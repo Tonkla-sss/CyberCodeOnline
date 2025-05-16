@@ -149,7 +149,7 @@
 			"enemyKill": {
 				"description": {
 					"eng": "Kill any enemy",
-					"trans": "ฆ่าศัตรูใด ๆ"
+					"trans": "ฆ่าศัตรูอะไรก็ได้"
 				},
 				"name": {
 					"eng": "Kill enemy",
@@ -159,7 +159,7 @@
 			"exp": {
 				"description": {
 					"eng": "Receive exp from any source",
-					"trans": "รับ EXP จากแหล่งใด ๆ"
+					"trans": "รับ EXP จากแหล่งไหนก็ได้"
 				},
 				"name": {
 					"eng": "Receive exp",
@@ -169,7 +169,7 @@
 			"globalChat": {
 				"description": {
 					"eng": "Chat with other players, spam not allowed",
-					"trans": "แชทกับผู้เล่นอื่น ๆ สแปมไม่อนุญาต"
+					"trans": "แชทกับผู้เล่นคนอื่นได้ แต่ห้ามสแปม"
 				},
 				"name": {
 					"eng": "Use global chat",
@@ -199,11 +199,11 @@
 			"killGang2": {
 				"description": {
 					"eng": "Defeat Voodoo boys gang enemies",
-					"trans": "เอาชนะศัตรูแก๊งค์วูดูเด็กชาย"
+					"trans": "กำจัดพวก Voodoo Boys"
 				},
 				"name": {
 					"eng": "Defeat Voodoo boys gang member",
-					"trans": "เอาชนะสมาชิกแก๊งวูดูบอยส์แก๊งค์"
+					"trans": "เอาชนะสมาชิกแก๊ง Voodoo Boys"
 				}
 			},
 			"killGang3": {
@@ -219,7 +219,7 @@
 			"molecularPrint": {
 				"description": {
 					"eng": "use molecular print to print any item cache",
-					"trans": "ใช้ปริ้นเพื่อปริ้นแคชรายการใด ๆ"
+					"trans": "ใช้เครื่องพิมพ์โมเลกุลเพื่อพิมพ์แคชไอเทมอะไรก็ได้"
 				},
 				"name": {
 					"eng": "Print equipment",
@@ -239,7 +239,7 @@
 			"openCrate": {
 				"description": {
 					"eng": "Open crate in dungeon",
-					"trans": "ปิดกล่องในดันเจี้ยน"
+					"trans": "เปิดกล่องในดันเจี้ยน"
 				},
 				"name": {
 					"eng": "Open Crate",
@@ -249,7 +249,7 @@
 			"sellItem": {
 				"description": {
 					"eng": "Place an item on the market",
-					"trans": "วางรายการในตลาด"
+					"trans": "วางไอเทมในตลาด"
 				},
 				"name": {
 					"eng": "Be a merchant",
@@ -622,7 +622,7 @@
 		},
 		"nameProfane": {
 			"eng": "This name contains wordings not allowed, please use other name",
-			"trans": "ชื่อนี้ไม่อนุญาตให้ใช้คำพูดโปรดใช้ชื่ออื่น"
+			"trans": "ชื่อนี้มีคำที่ไม่ได้รับอนุญาตโปรดใช้ชื่ออื่น"
 		},
 		"nameUsed": {
 			"eng": "this name is used by other player, please use other name",
@@ -630,7 +630,7 @@
 		},
 		"reservedKeyword": {
 			"eng": "This name contains reserved wordings, please use other name",
-			"trans": "ชื่อนี้มีคำที่สงวนไว้โปรดใช้ชื่ออื่น"
+			"trans": "ชื่อนี้มีคำที่ระบบสงวนไว้โปรดใช้ชื่ออื่น"
 		}
 	},
 	"battleUI": {
@@ -663,7 +663,7 @@
 	"buffSponsorModal": {
 		"giveCredit": {
 			"eng": "Give Street Cred",
-			"trans": "ให้เครดิตในถนน"
+			"trans": "ให้ Street Cred"
 		},
 		"viewProfile": {
 			"eng": "View Profile",
@@ -680,7 +680,7 @@
 		"printSell": {
 			"description": {
 				"eng": "Print items and sell them for money",
-				"trans": "พิมพ์รายการและขายเป็นเงิน"
+				"trans": "พิมพ์ไอเทมและขายเป็นเงิน"
 			},
 			"title": {
 				"eng": "Print & Sell",
@@ -856,7 +856,7 @@
 	"caliTrainBanner": {
 		"button,": {
 			"eng": "Give street cred",
-			"trans": "ให้เกียรติยศบนถนน",
+			"trans": "ให้ street cred",
 			"vars": [
 				"playerName"
 			]
@@ -938,7 +938,7 @@
 		},
 		"success": {
 			"eng": "Pin code accepted",
-			"trans": "ยอมรับรหัสพิน"
+			"trans": "รหัสพินถูกต้อง"
 		}
 	},
 	"chat": {
@@ -1020,7 +1020,7 @@
 	"christmasPromo": {
 		"chatMessage1": {
 			"eng": "Happy Holidays everyone!",
-			"trans": "สุขสันต์วันหยุดทุกคน!"
+			"trans": "สุขสันต์วันหยุดนะทุกคน!"
 		},
 		"desc1": {
 			"eng": "'Tis the season to be jolly! Celebrate Christmas with special rewards and festive events.",
@@ -1056,7 +1056,7 @@
 		},
 		"title": {
 			"eng": "Christmas Event!",
-			"trans": "งานคริสต์มาส!"
+			"trans": "อีเว้นท์คริสต์มาส!"
 		}
 	},
 	"clanMemberSort": {
@@ -1148,7 +1148,7 @@
 		"simpleErrorBoundary": {
 			"defaultMessage": {
 				"eng": "Something went wrong",
-				"trans": "มีอะไรผิดพลาด"
+				"trans": "มีบางอย่างผิดพลาด"
 			}
 		},
 		"terminalLine": {
@@ -1204,7 +1204,7 @@
 		},
 		"requireTopGang": {
 			"eng": "Requires you to be in the Top 2 Gangs on the Occupation Leaderboard",
-			"trans": "ต้องอยู่ในแก๊งชั้นนำ"
+			"trans": "คุณต้องอยู่ใน 2 อันดับแรกของแก๊งในกระดานยึดครอง"
 		}
 	},
 	"craft": {
@@ -1227,11 +1227,11 @@
 	"craftingStartPage": {
 		"instant": {
 			"eng": "Instant",
-			"trans": "ทันที"
+			"trans": "ผลิตทันที"
 		},
 		"instantDescription": {
 			"eng": "task will complete instantly",
-			"trans": "งานจะเสร็จสมบูรณ์ทันที"
+			"trans": "เสร็จงานทันที"
 		},
 		"startButton": {
 			"title": {
@@ -1268,7 +1268,7 @@
 			},
 			"title": {
 				"eng": "Gang Tag",
-				"trans": "วันแก๊งค์"
+				"trans": "ชื่อย่อแก๊งค์"
 			}
 		}
 	},
@@ -1316,7 +1316,7 @@
 				]
 			},
 			"titleClickAudio": {
-				"eng": "Title sound effect",
+				"eng": "title sound effect",
 				"trans": "เสียงคลิกหัวข้อ"
 			}
 		}
@@ -1410,7 +1410,7 @@
 		},
 		"donation10": {
 			"eng": "Prestige",
-			"trans": "ศักดิ์ศรี"
+			"trans": "ระดับพิเศษ"
 		},
 		"donation11": {
 			"eng": "CyberKitty",
@@ -1418,7 +1418,7 @@
 		},
 		"donation12": {
 			"eng": "CyberSanta",
-			"trans": "ไซเบอร์ตา"
+			"trans": "ไซเบอร์ซานตา"
 		},
 		"donation13": {
 			"eng": "CyberFrost",
@@ -2213,7 +2213,7 @@
 		},
 		"announcement": {
 			"eng": "🎉Its Party Time!🥳 activated by ${players}",
-			"trans": "🎉เวลาปาร์ตี้แล้ว!🥳 เปิดใช้งานโดย ${players}",
+			"trans": "🎉ถึงเวลาปาร์ตี้แล้ว!🥳 เปิดใช้งานโดย ${players}",
 			"vars": [
 				"players"
 			]
@@ -2250,7 +2250,7 @@
 		},
 		"title": {
 			"eng": "🎉 Global Party 🎉",
-			"trans": "🎉พรรคทั่วโลก🎉"
+			"trans": "🎉ปาตี้ปาร์ตี้ทั่วโลก🎉"
 		}
 	},
 	"globalPartyPage": {
@@ -3041,13 +3041,13 @@
 			},
 			"name": {
 				"eng": "Flash Grenade",
-				"trans": "ระเบิดมือแฟลช"
+				"trans": "ระเบิดแฟลช"
 			}
 		},
 		"globalPartyBuff": {
 			"announcement": {
 				"eng": "🎉Its Party Time!🥳, reduce AFK time by ${afkPercent}%, increased BTC gained by ${btcPercent}%, increase EXP gained by ${expPercent}%",
-				"trans": "🎉itsเวลาปาร์ตี้! 🥳ลดเวลา AFK ลง ${afkPercent}%เพิ่ม BTC ที่ได้รับ ${btcPercent}%เพิ่ม EXP ที่ได้รับ ${expPercent}%",
+				"trans": "🎉ได้เวลาปาร์ตี้แล้ว! 🥳ลดเวลา AFK ลง ${afkPercent}%เพิ่ม BTC ที่ได้รับ ${btcPercent}%เพิ่ม EXP ที่ได้รับ ${expPercent}%",
 				"vars": [
 					"afkPercent",
 					"btcPercent",
@@ -3650,7 +3650,7 @@
 			},
 			"name": {
 				"eng": "Synthetic Alloy",
-				"trans": "โลหะ合成"
+				"trans": "โลหะสังเคราะห์"
 			}
 		},
 		"techScrap": {
@@ -4043,7 +4043,7 @@
 		},
 		"ammo": {
 			"eng": "Ammo Level",
-			"trans": "และระดับ"
+			"trans": "ระดับกระสุน"
 		},
 		"description": {
 			"eng": "Leaderboard listing updates every ${minutes} minutes",
@@ -5446,7 +5446,7 @@
 					"Welcome, our family is always excited to help you find the perfect tech gear."
 				],
 				"trans": [
-					"Welcome, our family is always excited to help you find the perfect tech gear."
+					"ยินดีต้อนรับ ครอบครัวของเรายินดีเสมอที่จะช่วยคุณค้นหาอุปกรณ์เทคโนโลยีที่สมบูรณ์แบบ."
 				]
 			},
 			"name": {
@@ -5455,7 +5455,7 @@
 			},
 			"npcName": {
 				"eng": "Luna",
-				"trans": "Luna"
+				"trans": "ลูน่า"
 			}
 		},
 		"party": {
@@ -11086,7 +11086,7 @@
 		},
 		"title": {
 			"eng": "Valentine Event",
-			"trans": "งานวันวาเลนไทน์"
+			"trans": "อีเว้นท์วันวาเลนไทน์"
 		}
 	}
 }
